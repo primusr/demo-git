@@ -1,11 +1,10 @@
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
-print ("hello")
+number = -10.6
+
+name = "Programiz"
+
+# print literals     
+print(5)
+
+# print variables
+print(number)
+print(name)
